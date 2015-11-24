@@ -10,4 +10,8 @@ public class DisplayHelper {
         }
         System.out.println();
     }
+
+    public void displayBinaryTree(int[] arr) {
+        //todo
+    }
 }
